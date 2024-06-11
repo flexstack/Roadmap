@@ -12,6 +12,7 @@ and bug fixes are not included.
 - [Workers](3-Workers.md): Run background jobs in a separate container
 - [Scheduled jobs](4-Scheduled-jobs.md): Run jobs on a schedule
 - [Deploy hooks](5-Deploy-hooks.md): Run custom scripts before or after a deployment
+- [FlexStack CLI](6-FlexStack-CLI.md): Local development, container exec, and more
 
 ## Contributing
 
